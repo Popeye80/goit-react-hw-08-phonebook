@@ -8,7 +8,7 @@ export const WelcomeScreen = () => {
 
   return (
     <>
-      <TypingHello>Welcome to phonebook react app!</TypingHello>
+      <TypingHello>Welcome to your phonebook!</TypingHello>
       {!isLoggedIn && (
         <>
           <Text>
